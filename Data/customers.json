@@ -1,0 +1,142 @@
+[
+  {
+    "Id": 1,
+    "Name": "Amit Sharma",
+    "Email": "amit.sharma@example.com",
+    "Address": "45, Sector 15, Noida",
+    "ContactNumber": "9812345670"
+  },
+  {
+    "Id": 2,
+    "Name": "Priya Patel",
+    "Email": "priya.patel@example.com",
+    "Address": "23, Shubham Complex, Surat",
+    "ContactNumber": "9823456789"
+  },
+  {
+    "Id": 3,
+    "Name": "Ravi Kumar",
+    "Email": "ravi.kumar@example.com",
+    "Address": "101, Vasant Vihar, Delhi",
+    "ContactNumber": "9813456789"
+  },
+  {
+    "Id": 4,
+    "Name": "Neha Gupta",
+    "Email": "neha.gupta@example.com",
+    "Address": "12, Green Park, Mumbai",
+    "ContactNumber": "9898765432"
+  },
+  {
+    "Id": 5,
+    "Name": "Sanjay Mehta",
+    "Email": "sanjay.mehta@example.com",
+    "Address": "78, Park Avenue, Bangalore",
+    "ContactNumber": "9988776655"
+  },
+  {
+    "Id": 6,
+    "Name": "Sunita Reddy",
+    "Email": "sunita.reddy@example.com",
+    "Address": "56, Mahatma Gandhi Road, Chennai",
+    "ContactNumber": "9876543210"
+  },
+  {
+    "Id": 7,
+    "Name": "Manoj Verma",
+    "Email": "manoj.verma@example.com",
+    "Address": "34, Jain Street, Jaipur",
+    "ContactNumber": "9812345678"
+  },
+  {
+    "Id": 8,
+    "Name": "Kavita Singh",
+    "Email": "kavita.singh@example.com",
+    "Address": "89, Rani Bagh, Kolkata",
+    "ContactNumber": "9900123456"
+  },
+  {
+    "Id": 9,
+    "Name": "Rajesh Sharma",
+    "Email": "rajesh.sharma@example.com",
+    "Address": "44, Gandhi Nagar, Ahmedabad",
+    "ContactNumber": "9823412345"
+  },
+  {
+    "Id": 10,
+    "Name": "Geeta Joshi",
+    "Email": "geeta.joshi@example.com",
+    "Address": "21, Maheshwari Lane, Hyderabad",
+    "ContactNumber": "9888776655"
+  },
+  {
+    "Id": 11,
+    "Name": "Vikram Saini",
+    "Email": "vikram.saini@example.com",
+    "Address": "90, Chandan Nagar, Agra",
+    "ContactNumber": "9898989898"
+  },
+  {
+    "Id": 12,
+    "Name": "Anjali Desai",
+    "Email": "anjali.desai@example.com",
+    "Address": "77, Santacruz, Mumbai",
+    "ContactNumber": "9922334455"
+  },
+  {
+    "Id": 13,
+    "Name": "Ramesh Yadav",
+    "Email": "ramesh.yadav@example.com",
+    "Address": "33, Malad West, Mumbai",
+    "ContactNumber": "9898989899"
+  },
+  {
+    "Id": 14,
+    "Name": "Poonam Arora",
+    "Email": "poonam.arora@example.com",
+    "Address": "44, Lake Town, Kolkata",
+    "ContactNumber": "9876543211"
+  },
+  {
+    "Id": 15,
+    "Name": "Ajay Agarwal",
+    "Email": "ajay.agarwal@example.com",
+    "Address": "12, Connaught Place, Delhi",
+    "ContactNumber": "9811234567"
+  },
+  {
+    "Id": 16,
+    "Name": "Rekha Sharma",
+    "Email": "rekha.sharma@example.com",
+    "Address": "85, Sadar Bazaar, Kanpur",
+    "ContactNumber": "9798989798"
+  },
+  {
+    "Id": 17,
+    "Name": "Subhash Rathi",
+    "Email": "subhash.rathi@example.com",
+    "Address": "14, Civil Lines, Indore",
+    "ContactNumber": "9822112233"
+  },
+  {
+    "Id": 18,
+    "Name": "Nisha Malhotra",
+    "Email": "nisha.malhotra@example.com",
+    "Address": "24, Alambagh, Lucknow",
+    "ContactNumber": "9898989897"
+  },
+  {
+    "Id": 19,
+    "Name": "Amitabh Roy",
+    "Email": "amitabh.roy@example.com",
+    "Address": "77, East Delhi, Delhi",
+    "ContactNumber": "9812121212"
+  },
+  {
+    "Id": 20,
+    "Name": "Suman Verma",
+    "Email": "suman.verma@example.com",
+    "Address": "98, Jayanagar, Bangalore",
+    "ContactNumber": "9876543220"
+  }
+]

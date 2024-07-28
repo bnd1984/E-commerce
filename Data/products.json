@@ -1,0 +1,162 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Samsung Galaxy S21",
+    "Description": "Latest Samsung smartphone with advanced features.",
+    "Price": 69999.00,
+    "Quantity": 50,
+    "Category": "Electronics"
+  },
+  {
+    "Id": 2,
+    "Name": "Apple iPhone 13",
+    "Description": "Newest Apple iPhone with improved camera.",
+    "Price": 79999.00,
+    "Quantity": 30,
+    "Category": "Electronics"
+  },
+  {
+    "Id": 3,
+    "Name": "Sony WH-1000XM4",
+    "Description": "Noise-cancelling wireless headphones.",
+    "Price": 29999.00,
+    "Quantity": 20,
+    "Category": "Electronics"
+  },
+  {
+    "Id": 4,
+    "Name": "Lenovo ThinkPad X1",
+    "Description": "High-performance laptop for professionals.",
+    "Price": 119999.00,
+    "Quantity": 15,
+    "Category": "Electronics"
+  },
+  {
+    "Id": 5,
+    "Name": "Havells Fan",
+    "Description": "Energy-efficient ceiling fan.",
+    "Price": 3499.00,
+    "Quantity": 100,
+    "Category": "Home Appliances"
+  },
+  {
+    "Id": 6,
+    "Name": "LG Refrigerator",
+    "Description": "Double door fridge with fast cooling.",
+    "Price": 24999.00,
+    "Quantity": 25,
+    "Category": "Home Appliances"
+  },
+  {
+    "Id": 7,
+    "Name": "Sony Bravia TV",
+    "Description": "Ultra HD smart television.",
+    "Price": 54999.00,
+    "Quantity": 10,
+    "Category": "Home Appliances"
+  },
+  {
+    "Id": 8,
+    "Name": "Puma Sports Shoes",
+    "Description": "Comfortable sports shoes for running.",
+    "Price": 4999.00,
+    "Quantity": 60,
+    "Category": "Fashion"
+  },
+  {
+    "Id": 9,
+    "Name": "Levi's Jeans",
+    "Description": "Classic denim jeans.",
+    "Price": 2499.00,
+    "Quantity": 80,
+    "Category": "Fashion"
+  },
+  {
+    "Id": 10,
+    "Name": "Ray-Ban Sunglasses",
+    "Description": "Stylish sunglasses for men and women.",
+    "Price": 7999.00,
+    "Quantity": 40,
+    "Category": "Fashion"
+  },
+  {
+    "Id": 11,
+    "Name": "Parachute Coconut Oil",
+    "Description": "Pure coconut oil for daily use.",
+    "Price": 179.00,
+    "Quantity": 200,
+    "Category": "Personal Care"
+  },
+  {
+    "Id": 12,
+    "Name": "Himalaya Face Wash",
+    "Description": "Gentle face wash for all skin types.",
+    "Price": 199.00,
+    "Quantity": 150,
+    "Category": "Personal Care"
+  },
+  {
+    "Id": 13,
+    "Name": "Cadbury Dairy Milk",
+    "Description": "Delicious milk chocolate.",
+    "Price": 55.00,
+    "Quantity": 300,
+    "Category": "Groceries"
+  },
+  {
+    "Id": 14,
+    "Name": "Tata Tea Premium",
+    "Description": "High-quality tea leaves.",
+    "Price": 199.00,
+    "Quantity": 250,
+    "Category": "Groceries"
+  },
+  {
+    "Id": 15,
+    "Name": "Aashirvaad Atta",
+    "Description": "Whole wheat flour.",
+    "Price": 549.00,
+    "Quantity": 180,
+    "Category": "Groceries"
+  },
+  {
+    "Id": 16,
+    "Name": "Lifebuoy Soap",
+    "Description": "Antibacterial soap for daily use.",
+    "Price": 40.00,
+    "Quantity": 300,
+    "Category": "Personal Care"
+  },
+  {
+    "Id": 17,
+    "Name": "Kellogg's Cornflakes",
+    "Description": "Crispy cornflakes for breakfast.",
+    "Price": 399.00,
+    "Quantity": 130,
+    "Category": "Groceries"
+  },
+  {
+    "Id": 18,
+    "Name": "Nescafé Coffee",
+    "Description": "Instant coffee for quick preparation.",
+    "Price": 299.00,
+    "Quantity": 120,
+    "Category": "Groceries"
+  },
+  {
+    "Id": 19,
+    "Name": "Apple MacBook Pro",
+    "Description": "High-end laptop for professionals.",
+    "Price": 179999.00,
+    "Quantity": 10,
+    "Category": "Electronics"
+  },
+  {
+    "Id": 20,
+    "Name": "Samsung Galaxy Watch",
+    "Description": "Smartwatch with fitness tracking.",
+    "Price": 22999.00,
+    "Quantity": 30,
+    "Category": "Electronics"
+  }
+]

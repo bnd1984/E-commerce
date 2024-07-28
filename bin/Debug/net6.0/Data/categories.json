@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "Name": "Electronics",
+    "Description": "Devices and gadgets including smartphones, laptops, and more."
+  },
+  {
+    "Id": 2,
+    "Name": "Home Appliances",
+    "Description": "Appliances and devices for home use."
+  },
+  {
+    "Id": 3,
+    "Name": "Fashion",
+    "Description": "Clothing, footwear, and accessories."
+  },
+  {
+    "Id": 4,
+    "Name": "Personal Care",
+    "Description": "Products for personal hygiene and grooming."
+  },
+  {
+    "Id": 5,
+    "Name": "Groceries",
+    "Description": "Food items and household essentials."
+  }
+]
